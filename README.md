@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/panel-tablet.png" alt="SC Deck panel on a tablet, Flight mode" width="820">
+  <img src="docs/panel-tablet.png" alt="SC Deck panel on a tablet: Flight mode with a fixed column, a big button, vertical groups, a note and a floating Quantum button" width="820">
 </p>
 
 ---
